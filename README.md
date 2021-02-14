@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/18f570a1-97f9-4e64-be23-f9b26ebf1279/deploy-status)](https://app.netlify.com/sites/compassionate-chandrasekhar-dfa50c/deploys)
+ARCHIVED
 
 # Info
 
