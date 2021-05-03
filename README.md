@@ -1,4 +1,4 @@
-ARCHIVED
+**This is the second iteration of the Flutter Vancouver website built using Flutter web. This repo isn't being worked on anymore as I moved the website to third iteration which has more content and is more sophisticated. Please reach out if you need more information!**
 
 # Info
 
